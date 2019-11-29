@@ -7451,11 +7451,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_programming\\blazor\\blazor-electron-demo\\blazor-electron-demo.csproj",
+      "projectUniqueName": "C:\\_programming\\blazor\\blazor-and-electron-demo\\blazor-electron-demo.csproj",
       "projectName": "blazor-electron-demo",
-      "projectPath": "C:\\_programming\\blazor\\blazor-electron-demo\\blazor-electron-demo.csproj",
+      "projectPath": "C:\\_programming\\blazor\\blazor-and-electron-demo\\blazor-electron-demo.csproj",
       "packagesPath": "C:\\Users\\premr\\.nuget\\packages\\",
-      "outputPath": "C:\\_programming\\blazor\\blazor-electron-demo\\obj\\",
+      "outputPath": "C:\\_programming\\blazor\\blazor-and-electron-demo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
